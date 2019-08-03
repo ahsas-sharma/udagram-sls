@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "aws-sdk": "^2.503.0",
-    "source-map-support": "^0.5.10"
+    "source-map-support": "^0.5.10",
+    "uuid": "^3.3.2"
   },
   "devDependencies": {
     "@types/aws-lambda": "^8.10.17",
